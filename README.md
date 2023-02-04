@@ -12,14 +12,14 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 - Explore the data in order to obtain more insight from the data.
 
 ## Notebooks 🔬
-[Data Collection via API](hhttps://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20Data%20Collection%20API.ipynb)
-[Data Collection via Web Scraping](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/Data%20Collection%20with%20Web%20Scraping.ipynb)
-[Data Wrangling](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/Data%20Wrangling.ipynb)
-[EDA with Data Visualization](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20EDA%20Data%20Viz.ipynb)
-[EDA with SQL](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20EDA%20SQLlite.ipynb)
-[Interactive Visual Analytics with Folium](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20LaunchSite%20Folium.ipynb)
-[Interactive Visual Analytics with Dash](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/spacex_dash_app.py)
-[Machine Learning Prediction](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20ML%20Prediction.ipynb)
+- [Data Collection via API](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20Data%20Collection%20API.ipynb)
+- [Data Collection via Web Scraping](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/Data%20Collection%20with%20Web%20Scraping.ipynb)
+- [Data Wrangling](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/Data%20Wrangling.ipynb)
+- [EDA with Data Visualization](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20EDA%20Data%20Viz.ipynb)
+- [EDA with SQL](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20EDA%20SQLlite.ipynb)
+- [Interactive Visual Analytics with Folium](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20LaunchSite%20Folium.ipynb)
+- [Interactive Visual Analytics with Dash](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/spacex_dash_app.py)
+- [Machine Learning Prediction](https://github.com/EdAkh/Applied-Data-Science-Capstone/blob/master/SpaceX%20ML%20Prediction.ipynb)
 
 ## Business metric 📊
 Confusion matrice: It summarizes the number of correct and incorrect predictions made by a classifier and provides information about the types of errors made by the classifier. The matrix is usually represented in a 2x2 format, with the rows representing the predicted classes and the columns representing the true classes.
